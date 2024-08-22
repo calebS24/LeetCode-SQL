@@ -1,1 +1,2 @@
 # LeetCode-SQL
+Welcome to my LeetCode SQL repository! 🎉 Here, I’ll be sharing my solutions to a variety of LeetCode SQL challenges that I've tackled to sharpen my skills and deepen my understanding of this powerful language. Whether you're a beginner eager to learn or an experienced coder looking to refine your expertise, you'll find valuable insights and solutions here. Join me on this journey to master SQL and unleash the full potential of data manipulation! 🚀
